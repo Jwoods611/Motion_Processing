@@ -1,0 +1,2 @@
+# Motion_Processing
+A project for Microprocessors, this Arduino program takes measurements from the MPU6050 (A motion processing unit) and displays the measurements on the Arduino Uno's serial monitor. The program receives measurements such as acceleration rate, temperature, and gyroscope data. As a part of the assignment, this Arduino program also calculates the angle of rotation of the MPU using numerical integration.
